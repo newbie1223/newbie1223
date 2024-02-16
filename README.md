@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbie1223&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=newbie1223&theme=onedark)](https://github-profile-trophy.vercel.app/?username=newbie1223&theme=tokyonight)
